@@ -34,7 +34,7 @@ const cart = {
 };
 
 
-let finalPrice = 7;
+let finalPrice = 0;
 
 // your code goes here
 function calcCartPrice(withCoupons = false) {
